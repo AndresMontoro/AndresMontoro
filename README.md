@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrés Montoro</h1>
 <h3 align="center">I am a computer science graduate from Spain and backend developer with frontend skills.</h3>
 
-- 🔭 I’m currently working on [CofradeGPT](https://github.com/AndresMontoro/CofradeGPT)
-
-- 🔭 I’m currently working on **DavinciScore**
-
 - 🤝 I’m looking for help with [CofradeGPT](https://github.com/AndresMontoro/CofradeGPT)
 
 - 📫 How to reach me **montorovenegasandres@gmail.com**
